@@ -10,13 +10,10 @@
 
 ### Most Used Languages
 
-<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jquentino&layout=compact&theme=nightowl&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 
 ### Contact
-
 <div>
   <a href="https://www.linkedin.com/in/jvquentino/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
