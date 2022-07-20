@@ -5,18 +5,15 @@
 </h2>
 
 Hi! I am Jucelio Quentino.
-<!-- Add emojis for each topic -->
-- Cinephile :smile:;
+- Cinephile :movie_camera:;
 
-- Coffee addict;
+- Coffee addict :coffee:;
 
-- Student of Engineering Physics
+- Student of Engineering Physics :books:;
 
-- Intern at the Accelerator Physics group of Brazillian Synchrotron Ligth Laboratory (LNLS);
+- Intern at the Accelerator Physics group of Brazillian Synchrotron Light Laboratory (LNLS) :computer:;
 
-- Passionate for solve problems living on the interface of Physics and Computational Science, in special, the application of machine learning methods to solve physics related problems.
-
-At LNLS, I work developing tools for our particle accelerator simulation framework and scripts for experiments control in our accelerators.
+- Passionate for study things living on the interface of Physics and Computational Science, in special, the application of machine learning methods to solve physics-related problems. :robot:
 
 ### I have some experience with:
 <p>
@@ -49,17 +46,31 @@ At LNLS, I work developing tools for our particle accelerator simulation framewo
 </div>
 
 
-### Github Stats 📑
+### Statistics
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/jquentino">
     <img height="220em" src="https://github-readme-stats.vercel.app/api?username=jquentino&count_private=true&show_icons=true&theme=nightowl&line_height=27" />
 </a>
+</p> -->
+
+<br/>
+<p align="left">
+  <a href="https://jquentino.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jquentino&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jquentino&theme=gruvbox&hide_border=true" />
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jquentino&layout=compact&theme=gruvbox&hide=jupyter%20notebook,matlab&hide_border=true">
+  <img width="49%" src="https://activity-graph.herokuapp.com/graph?username=jquentino&custom_title=Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545"> -->
+
+  </a>
 </p>
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jquentino&layout=compact&theme=gruvbox&hide=jupyter%20notebook,matlab&hide_border=true">
+</div>
+<br>
 
-### Most Used Languages
+<!-- [![Quentino' Activity Graph](https://activity-graph.herokuapp.com/graph?username=jquentino&custom_title=Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://jquentino.dev) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jquentino&layout=compact&theme=nightowl&hide=jupyter%20notebook,matlab)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Contact
