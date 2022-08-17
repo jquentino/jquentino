@@ -29,7 +29,7 @@ Hi! I am Jucelio Quentino.
 </div>
 </p>
 
-### Currently studying::
+### Currently studying:
 
 <p>
 <div align="center">
@@ -48,29 +48,23 @@ Hi! I am Jucelio Quentino.
 
 ### Statistics
 
-<!-- <p align="center">
-  <a href="https://github.com/jquentino">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=jquentino&count_private=true&show_icons=true&theme=nightowl&line_height=27" />
-</a>
-</p> -->
-
 <br/>
-<p align="left">
+<p align="center">
+  <!-- Git Hub Stats -->
   <a href="https://jquentino.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jquentino&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jquentino&theme=gruvbox&hide_border=true" />
-  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jquentino&layout=compact&theme=gruvbox&hide=jupyter%20notebook,matlab&hide_border=true">
-  <img width="49%" src="https://activity-graph.herokuapp.com/graph?username=jquentino&custom_title=Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545"> -->
-
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=jquentino&show_icons=true&theme=dark&hide_border=true" />
+  <!-- Streak stats -->
+  <!-- <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=jquentino&theme=dark&hide_border=true" /> -->
   </a>
 </p>
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jquentino&layout=compact&theme=gruvbox&hide=jupyter%20notebook,matlab&hide_border=true">
-</div>
+
+<p align="left">
+  <!-- Most used languages -->
+  <img width="49.5%" src="https://api.githubtrends.io/user/svg/jquentino/langs?theme=dark&compact=false&use_percent=true&compa">
+  <!-- Most contributed repos -->
+  <img width="49.5%" src="https://api.githubtrends.io/user/svg/jquentino/repos?time_range=one_year&include_private=true&loc_metric=changed&theme=dark">
+</p>
 <br>
-
-<!-- [![Quentino' Activity Graph](https://activity-graph.herokuapp.com/graph?username=jquentino&custom_title=Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://jquentino.dev) -->
-
 
 ### Contact
 <div>
