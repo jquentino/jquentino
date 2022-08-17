@@ -62,7 +62,7 @@ Hi! I am Jucelio Quentino.
   <!-- Most used languages -->
   <img width="40.%" src="https://api.githubtrends.io/user/svg/jquentino/langs?theme=dark&compact=false&use_percent=true&compa">
   <!-- Most contributed repos -->
-  <img width="40.5%" src="https://api.githubtrends.io/user/svg/jquentino/repos?time_range=one_year&include_private=true&loc_metric=changed&theme=dark">
+  <img width="40.%" src="https://api.githubtrends.io/user/svg/jquentino/repos?time_range=one_year&include_private=true&loc_metric=changed&theme=dark">
 </p>
 <br>
 
