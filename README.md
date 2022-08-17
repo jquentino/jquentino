@@ -52,17 +52,17 @@ Hi! I am Jucelio Quentino.
 <p align="center">
   <!-- Git Hub Stats -->
   <a href="https://jquentino.dev/">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=jquentino&show_icons=true&theme=dark&hide_border=true" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=jquentino&show_icons=true&theme=dark&hide_border=true" />
   <!-- Streak stats -->
   <!-- <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=jquentino&theme=dark&hide_border=true" /> -->
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <!-- Most used languages -->
-  <img width="49.5%" src="https://api.githubtrends.io/user/svg/jquentino/langs?theme=dark&compact=false&use_percent=true&compa">
+  <img width="40.%" src="https://api.githubtrends.io/user/svg/jquentino/langs?theme=dark&compact=false&use_percent=true&compa">
   <!-- Most contributed repos -->
-  <img width="49.5%" src="https://api.githubtrends.io/user/svg/jquentino/repos?time_range=one_year&include_private=true&loc_metric=changed&theme=dark">
+  <img width="40.5%" src="https://api.githubtrends.io/user/svg/jquentino/repos?time_range=one_year&include_private=true&loc_metric=changed&theme=dark">
 </p>
 <br>
 
